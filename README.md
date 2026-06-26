@@ -7,7 +7,7 @@ It distributes IE's AI skills and plugins — branding/design-system skills, clo
 ## Add the marketplace
 
 ```
-/plugin marketplace add ie-ai-hub/marketplace
+/plugin marketplace add ie-ai-hub/skills
 ```
 
 ## Install a plugin
