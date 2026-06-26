@@ -87,7 +87,7 @@ Two layout versions available: horizontal and vertical.
 | Accent negative (vertical) | SVG | `https://static.ie.edu/IT/logos/School-Science-Technology/IEU-SSTech-Accent-negative.svg` |
 | Full color (horizontal) | PNG | `https://static.ie.edu/IT/logos/School-Science-Technology/IEU-SSTech-Full-color-Hztl.png` |
 | Full color (horizontal) | SVG | `https://static.ie.edu/IT/logos/School-Science-Technology/IEU-SSTech-Full-color-Hztl.svg` |
-| Full color (vertical) | PNG | `https://static.ie.edu.s3.amazonaws.com/IT/logos/School-Science-Technology/IEU-SSTech-Full-color.png` |
+| Full color (vertical) | PNG | `https://static.ie.edu/IT/logos/School-Science-Technology/IEU-SSTech-Full-color.png` |
 | Full color (vertical) | SVG | `https://static.ie.edu/IT/logos/School-Science-Technology/IEU-SSTech-Full-color.svg` |
 | Full color negative (horizontal) | PNG | `https://static.ie.edu/IT/logos/School-Science-Technology/IEU-SSTech-Full-color-negative-Hztl.png` |
 | Full color negative (horizontal) | SVG | `https://static.ie.edu/IT/logos/School-Science-Technology/IEU-SSTech-Full-color-negative-Hztl.svg` |
