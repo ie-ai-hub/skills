@@ -1,0 +1,46 @@
+IE University — AI Skills & Plugins
+Copyright (c) 2026 IE University
+
+================================================================================
+1. SOURCE CODE  (MIT License)
+================================================================================
+
+The plugin and skill source code, manifests, configuration, and documentation
+in this repository are licensed under the MIT License:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+2. BRAND ASSETS  (All rights reserved — NOT covered by the MIT License)
+================================================================================
+
+IE University names, trademarks, logos, and the corporate design system —
+including the logo files referenced in this repository and the design tokens
+under `plugins/ie-brand/skills/ie-brand/references/` (colours, typography,
+spacing, and related identity definitions) — are the exclusive property of
+IE University and are © IE University. All rights reserved.
+
+These brand assets are NOT licensed under the MIT License. They are published
+solely to enable the consistent application of IE University's visual identity
+and accessibility standards. Any use, reproduction, modification, or
+distribution of IE University brand assets must comply with IE University's
+brand guidelines and requires the prior authorisation of IE University.
+
+Nothing in the MIT License above grants any right or licence to use the
+IE University name, trademarks, or brand assets.
