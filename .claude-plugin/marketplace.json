@@ -15,7 +15,7 @@
       "source": "./plugins/ie-brand",
       "description": "IE University branding plugin — corporate design system (colors, typography, tokens, logos) plus mandatory WCAG 2.1 AA / European Accessibility Act compliance for any digital asset.",
       "version": "1.0.0",
-      "author": { "name": "IE University — IT Cloud Services" },
+      "author": { "name": "IE University — IT UX/UI" },
       "category": "design"
     }
   ]
