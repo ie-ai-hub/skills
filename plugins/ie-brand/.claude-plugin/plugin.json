@@ -1,0 +1,20 @@
+{
+  "name": "ie-brand",
+  "description": "IE University branding plugin — applies the corporate design system (colors, typography, tokens, logos) and enforces WCAG 2.1 AA / European Accessibility Act compliance on any generated or reviewed digital asset.",
+  "version": "1.0.0",
+  "author": {
+    "name": "IE University — IT Cloud Services",
+    "email": "cloud-services@ie.edu"
+  },
+  "homepage": "https://github.com/ie-ai-hub/skills",
+  "repository": "https://github.com/ie-ai-hub/skills",
+  "keywords": [
+    "ie-university",
+    "brand",
+    "design-system",
+    "design-tokens",
+    "accessibility",
+    "wcag",
+    "corporate-identity"
+  ]
+}
